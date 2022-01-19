@@ -1,1 +1,11 @@
+title: Kashika Yadav # your name (or website title) here
+logo: "/IMG_7607 (1).jpg?raw=true" # your photo (or logo) here
+description: > # your text below (remove <br> elements if you don't need line breaks)
+ Senior Frontend Engineer
+  <br><br>
+  <a href="mailto:kashikayadav3247@gmail.com">aashima.ahuja811@gmail.com </a>
+  <br>
+  <a href="https://www.linkedin.com/in/kashika-yadav-50984a15a/">LinkedIn Profile</a>
+  <br>
+  <a href="https://github.com/kashikayadav3247">Gihub</a> 
 theme: jekyll-theme-minimal
